@@ -22,6 +22,3 @@ function beforeLoad(type, form, request) {
 ```
 
 You can also explore and integrate other types of alerts and pop-ups from [Sweet Alert's website](https://sweetalert.js.org/) for more options.
-```
-
-This Markdown format should render your text with appropriate headings and code blocks.
