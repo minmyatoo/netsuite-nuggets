@@ -1,3 +1,10 @@
+---
+layout: post
+title: 📊 Barcode Generation in NetSuite Saved Search
+date: 2023-08-21 12:00:00 +0300
+categories: [blog, tutorial]
+tags: [markdown, github-pages]
+---
 📊 Barcode Generation in NetSuite Saved Search
 
 📦 This repository contains a NetSuite saved search formula to generate barcodes using the JsBarcode library. The saved search formula text provided here can be used to generate barcode images in NetSuite based on the `internalid` field.
